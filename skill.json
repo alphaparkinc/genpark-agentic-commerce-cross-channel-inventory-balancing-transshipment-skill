@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-cross-channel-inventory-balancing-transshipment-skill",
+  "version": "1.0.0",
+  "title": "Cross-Channel Multi-Echelon Inventory Transshipment Skill",
+  "category": "Agentic Commerce (Omnichannel Logistics)",
+  "description": "Models lateral transshipment costs vs emergency replenishment stockouts across fulfillment nodes (FBA, 3PL, DTC hubs), rebalancing stock before peak promotional spikes.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "optimize_lateral_transshipment"
+  ],
+  "dependencies": []
+}
